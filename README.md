@@ -4,6 +4,6 @@
 <div align="center">
   <img src="https://github.com/MrKazak/MrKazak/blob/output/github-contribution-grid-snake.svg" />
 </div>
-<div align="center">
+<div align="right">
   <img src="https://count.getloli.com/get/@mrkazak.github" />
 </div>
